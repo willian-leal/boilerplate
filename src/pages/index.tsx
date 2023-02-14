@@ -1,8 +1,5 @@
 import Head from 'next/head'
 
-const bla = 'bla'
-const sla = 'sla'
-
 export default function Home() {
   return (
     <>
